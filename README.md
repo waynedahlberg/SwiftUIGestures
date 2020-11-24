@@ -1,3 +1,3 @@
 # SwiftUIGestures
 
-Handy ViewModifiers for adding ordinal gestures (Up, Down, Left, Right) to any SwiftUI View
+Handy SwiftUI ViewModifier for adding ordinal gestures (Up, Down, Left, Right) to any SwiftUI View
