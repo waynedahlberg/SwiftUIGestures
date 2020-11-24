@@ -44,7 +44,7 @@ public struct SwipeGesture: UIViewRepresentable {
 
 public extension SwipeGesture {
   
-  typealias Action = () -> Void
+  public typealias Action = () -> Void
 
   struct Actions {
     
@@ -104,7 +104,7 @@ extension UIView {
 
 extension View {
   
-  func onSwipeGesture(
+  public func onSwipeGesture(
     up: @escaping SwipeGesture.Action = {},
     left: @escaping SwipeGesture.Action = {},
     right: @escaping SwipeGesture.Action = {},
