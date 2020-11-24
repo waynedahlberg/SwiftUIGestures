@@ -1,3 +1,3 @@
 # SwiftUIGestures
 
-A description of this package.
+Handy ViewModifiers for adding ordinal gestures (Up, Down, Left, Right) to any SwiftUI View
